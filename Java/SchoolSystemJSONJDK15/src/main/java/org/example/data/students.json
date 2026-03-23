@@ -1,0 +1,212 @@
+[
+  {
+    "firstName": "Sophia",
+    "lastName": "Martinez",
+    "grades": [
+      {
+        "grade": 89.5
+      },
+      {
+        "grade": 93.2
+      },
+      {
+        "grade": 95.8
+      },
+      {
+        "grade": 87.9
+      },
+      {
+        "grade": 91.4
+      }
+    ]
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Nguyen",
+    "grades": [
+      {
+        "grade": 98.1
+      },
+      {
+        "grade": 94.7
+      },
+      {
+        "grade": 92.3
+      },
+      {
+        "grade": 96.5
+      },
+      {
+        "grade": 99.0
+      }
+    ]
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Johnson",
+    "grades": [
+      {
+        "grade": 88.9
+      },
+      {
+        "grade": 90.4
+      },
+      {
+        "grade": 92.7
+      },
+      {
+        "grade": 95.5
+      },
+      {
+        "grade": 89.3
+      }
+    ]
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Patel",
+    "grades": [
+      {
+        "grade": 85.6
+      },
+      {
+        "grade": 88.2
+      },
+      {
+        "grade": 91.9
+      },
+      {
+        "grade": 93.7
+      },
+      {
+        "grade": 90.5
+      }
+    ]
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Ross",
+    "grades": [
+      {
+        "grade": 99.0
+      },
+      {
+        "grade": 99.0
+      },
+      {
+        "grade": 99.0
+      },
+      {
+        "grade": 99.0
+      },
+      {
+        "grade": 99.0
+      }
+    ]
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Tbell",
+    "grades": [
+      {
+        "grade": 91.0
+      },
+      {
+        "grade": 91.0
+      },
+      {
+        "grade": 91.0
+      },
+      {
+        "grade": 91.0
+      },
+      {
+        "grade": 91.0
+      }
+    ]
+  },
+  {
+    "firstName": "Lilly",
+    "lastName": "Buckenham",
+    "grades": [
+      {
+        "grade": 84.0
+      },
+      {
+        "grade": 84.0
+      },
+      {
+        "grade": 84.0
+      },
+      {
+        "grade": 84.0
+      },
+      {
+        "grade": 84.0
+      }
+    ]
+  },
+  {
+    "firstName": "Jake",
+    "lastName": "Paul",
+    "grades": [
+      {
+        "grade": 78.0
+      },
+      {
+        "grade": 98.0
+      },
+      {
+        "grade": 99.0
+      },
+      {
+        "grade": 97.0
+      },
+      {
+        "grade": 84.0
+      }
+    ]
+  },
+  {
+    "firstName": "Phoebe",
+    "lastName": "Jet",
+    "grades": [
+      {
+        "grade": 68.0
+      },
+      {
+        "grade": 98.0
+      },
+      {
+        "grade": 99.0
+      },
+      {
+        "grade": 97.0
+      },
+      {
+        "grade": 62.0
+      }
+    ]
+  },
+  {
+    "firstName": "Yuli",
+    "lastName": "Trave",
+    "grades": [
+      {
+        "grade": 99.0
+      },
+      {
+        "grade": 99.0
+      },
+      {
+        "grade": 98.0
+      },
+      {
+        "grade": 91.0
+      },
+      {
+        "grade": 95.0
+      }
+    ]
+  }
+]
